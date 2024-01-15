@@ -1,23 +1,15 @@
 # Projects-University
 Projects completed for learning in university and personal time. sorted from newst to oldest.
 
----
-## Project Title
-### Overview
-### Learnings
-### Project Brief
-### Implementation 
-
 ## Health AI
 ---
-### Overview
-### Learnings
-### Project Brief
-### Implementation 
-- ![Live Site](https://healthai-2deb8.web.app)
-- ![Video Demo (Web)](https://www.youtube.com/watch?v=PsxyyBcrmdg&ab_channel=evan)
-- ![Video Demo (Mobile)](https://www.youtube.com/watch?v=n4H5huyClts)
-- ![github](https://github.com/evanmulcare/HealthAI)
+- Website, mobile app and prediction backend to allow doctors and patients to assess their risk for cancer
+- Technologies used: javascript,Java,Python,Flask,Firebase,React,SciKitLearn,Tailwind
+
+- Live Site - https://healthai-2deb8.web.app
+- Video Demo (Web) - https://www.youtube.com/watch?v=PsxyyBcrmdg&ab_channel=evan
+- Video Demo (Mobile) - https://www.youtube.com/watch?v=n4H5huyClts
+- Github - https://github.com/evanmulcare/HealthAI
   
 ![HealthAI](https://github.com/evanmulcare/Projects-University/assets/107214132/4b62e6ff-487d-4383-9640-653437ecb95c)
 ![HealthAIDocs](https://github.com/evanmulcare/Projects-University/assets/107214132/f17de0de-8b80-4b46-9a01-7ab2fe046a27)
@@ -26,11 +18,10 @@ Projects completed for learning in university and personal time. sorted from new
 
 ## Document Management
 ---
-### Overview
-### Learnings
-### Project Brief
-### Implementation 
-- ![Video Demo](https://www.youtube.com/watch?v=8LkHoDy60Z0&ab_channel=evan)
+- A Web app for the storage and approval of documents for organizations
+- Technologies used: React, Firebase, Tailwind. DocuSign, Express.
+
+- Video Demo - https://www.youtube.com/watch?v=8LkHoDy60Z0&ab_channel=evan
   
 <img width="1440" alt="formlanding" src="https://github.com/evanmulcare/Projects-University/assets/107214132/48592c47-d5de-4f25-806b-7b1b54551c98">
 <img width="1438" alt="formdashboard" src="https://github.com/evanmulcare/Projects-University/assets/107214132/802b7104-bafb-4539-9cf5-ebea6019f671">
@@ -38,12 +29,11 @@ Projects completed for learning in university and personal time. sorted from new
 
 ## REST Country API Challenge
 ---
-### Overview
-### Learnings
-### Project Brief
-### Implementation https://github.com/evanmulcare/RESTAPICodingChallenge
-- ![Live Site](https://restapicodingchallenge.onrender.com/)
-- ![github](https://github.com/evanmulcare/RESTAPICodingChallenge)
+- A coding challenge I participated in with the goal of searching for and filtering data from the REST Countries API.
+- Technologies Used: React, tailwind and Express
+  
+- Live Site - https://restapicodingchallenge.onrender.com/
+- Github - https://github.com/evanmulcare/RESTAPICodingChallenge
 
 ![REST Country API Challenge](https://github.com/evanmulcare/Projects-University/assets/107214132/041a68f7-bb2f-4fee-995f-c0eac3862f99)
 ![restQuiz](https://github.com/evanmulcare/Projects-University/assets/107214132/f293fb74-0368-44ab-9a53-7decff3dd2db)
@@ -51,24 +41,22 @@ Projects completed for learning in university and personal time. sorted from new
 
 ## Appointment Booking Application Java
 ---
-### Overview
-### Learnings
-### Project Brief
-### Implementation 
-- ![Video Demo](https://www.youtube.com/watch?v=rRxCwi0JBXc&ab_channel=evan)
-- -![github](https://github.com/evanmulcare/Appointment-Booking-Application-Java)
-- 
+- A Booking application developed for mobile.
+- Technologies used: Java, Android studio
+
+- Video Demo - https://www.youtube.com/watch?v=rRxCwi0JBXc&ab_channel=evan
+- Github - https://github.com/evanmulcare/Appointment-Booking-Application-Java
+  
 <img width="347" alt="Booking1" src="https://github.com/evanmulcare/Projects-University/assets/107214132/f326298a-ba22-4d8f-a435-9d8a0bee6370">
 <img width="345" alt="Booking2" src="https://github.com/evanmulcare/Projects-University/assets/107214132/f414ea23-db2f-4595-b9a2-c7029b667c60">
 <img width="389" alt="bookingConfirmed" src="https://github.com/evanmulcare/Projects-University/assets/107214132/a94376d7-c959-4f57-9c33-8fd8c24d7a8c">
 
 ## Investigation Videogame
 ---
-### Overview
-### Learnings
-### Project Brief
-### Implementation https://github.com/evanmulcare/RESTAPICodingChallenge
-- ![Demo Video](https://www.youtube.com/watch?v=1a3XvdVhsmM&feature=youtu.be)
+- An investigation game with the background stories and characters are written by CHATGPT prompts
+- Technologies used: Unity, Blender, C#, Phototshop
+  
+- Demo Video https://www.youtube.com/watch?v=1a3XvdVhsmM&feature=youtu.be
 
 <img width="901" alt="titlescreen" src="https://github.com/evanmulcare/Projects-University/assets/107214132/29d12f68-b429-47c3-bfed-640310a58281">
 <img width="905" alt="main" src="https://github.com/evanmulcare/Projects-University/assets/107214132/4ccd906b-27e2-486d-9716-8144567e287f">
@@ -77,13 +65,15 @@ Projects completed for learning in university and personal time. sorted from new
 
 ## Accommodation Management Dashboard
 ---
-### Overview
-### Learnings
-### Project Brief
-### Implementation 
-- ![Live Site](https://accomodationmanagement.onrender.com)
--  https://www.youtube.com/watch?v=KeWAAQGLa2k&ab_channel=evan
-- ![github](https://github.com/evanmulcare/AccomodationManagement-Frontend)
+- Web application for the management of staff and tenants of a caravan park.
+- Tracks staff information, tenant information, payments in and out, and task assignment.
+- Front-end developed using React and Tailwind CSS.
+- Backend developed using Node.js, Express, and MongoDB.
+- Authentication implemented with Auth0.
+   
+- Live Site - https://accomodationmanagement.onrender.com
+- Video Demo -  https://www.youtube.com/watch?v=KeWAAQGLa2k&ab_channel=evan
+- Github - https://github.com/evanmulcare/AccomodationManagement-Frontend
 
 ![Accomodation Management](https://github.com/evanmulcare/Projects-University/assets/107214132/e239831c-c027-46d9-9809-d79682a095f2)
 <img width="1437" alt="accomtable" src="https://github.com/evanmulcare/Projects-University/assets/107214132/65072cd4-1627-4f4a-ac23-10a2bdabe334">
@@ -91,11 +81,11 @@ Projects completed for learning in university and personal time. sorted from new
 
 ## Rock Paper Scissors
 ---
-### Overview
-### Learnings
-### Project Brief
-### Implementation 
-- ![Video Demo](https://www.youtube.com/watch?v=8LkHoDy60Z0&ab_channel=evan)
+- A Rock Paper Scissors game.
+- Firebase used to persist highscores
+- Technologies used: React, tailwind, firebase
+  
+- Video Demo - https://www.youtube.com/watch?v=JWcJkYY-RVo&ab_channel=evan
   
 ![RPSTitle](https://github.com/evanmulcare/Projects-University/assets/107214132/5c4638c3-306e-4ae6-93a4-1e8ff160591c)
 ![RPSMap](https://github.com/evanmulcare/Projects-University/assets/107214132/9f4f72ed-78fb-443d-b611-dcec47a0d3d0)
@@ -104,13 +94,15 @@ Projects completed for learning in university and personal time. sorted from new
 
 ## Screen Logging Application
 ---
-### Overview
-### Learnings
-### Project Brief
-### Implementation 
-- ![Live Site](https://screenlogs.onrender.com/)
-- ![Video Demo](https://www.youtube.com/watch?v=Yf636Ch-7qM&ab_channel=evan)
-- -![github](https://github.com/evanmulcare/ScreenLogs)
+- Screen logging web application with data visualization
+- Implemented MVC architecture.
+- Users can create, update, delete and read data relating to a log instance.
+- All data is visualized through various charts, implemented through Google Chart and ChartJS APIs.
+- Technologies used: JavaScript, NodeJS, Express, MongoDB, Google Charts, ChartJS, Bootstrap CSS
+  
+- Live Site - https://screenlogs.onrender.com/
+- Video Demo - https://www.youtube.com/watch?v=Yf636Ch-7qM&ab_channel=evan
+- Github - https://github.com/evanmulcare/ScreenLogs
 
 <img width="1440" alt="logLanding" src="https://github.com/evanmulcare/Projects-University/assets/107214132/0dee2704-32f0-4b14-be2c-c5736983aa0e">
 <img width="1423" alt="ScreenLog" src="https://github.com/evanmulcare/Projects-University/assets/107214132/bdfefe2a-7348-43a2-877a-238f1bfcb068">
@@ -120,11 +112,12 @@ Projects completed for learning in university and personal time. sorted from new
 
 ## Student Records JavaFX
 ---
-### Overview
-### Learnings
-### Project Brief
-### Implementation 
-- ![Video Demo](https://www.youtube.com/watch?v=7UMY84BZP1o&ab_channel=evan)
-- -![github](https://github.com/evanmulcare/StudentRecords/tree/main/StudentRecords/StageThree/AssignmentTwo/src/main/java/com/mtu/studentrecords)
+- JavaFX Application for a student dashboard
+- Implemented MVC architecture.
+- Users can create, update, delete and read data relating to students, modules and grades.
+- Junit added for unit testing
+
+- Video Demo - https://www.youtube.com/watch?v=7UMY84BZP1o&ab_channel=evan
+- -Github - https://github.com/evanmulcare/StudentRecords/tree/main/StudentRecords/StageThree/AssignmentTwo/src/main/java/com/mtu/studentrecords
   
 <img width="1440" alt="studentRecordsSc" src="https://github.com/evanmulcare/Projects-University/assets/107214132/730f486f-3500-46a1-a55a-138835b8705d">
