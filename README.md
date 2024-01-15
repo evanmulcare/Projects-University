@@ -14,5 +14,5 @@ Projects completed for learning in university and personal time. sorted from new
 ### Learnings
 ### Project Brief
 ### Implementation 
-![HealthAI_web](https://github.com/evanmulcare/Projects-University/assets/107214132/9b8f30dc-3f08-478c-88e9-b448ee8798aa)
+![HealthAI](https://github.com/evanmulcare/Projects-University/assets/107214132/4b62e6ff-487d-4383-9640-653437ecb95c)
 
