@@ -20,7 +20,9 @@ Projects completed for learning in university and personal time. sorted from new
 - ![github](https://github.com/evanmulcare/HealthAI)
   
 ![HealthAI](https://github.com/evanmulcare/Projects-University/assets/107214132/4b62e6ff-487d-4383-9640-653437ecb95c)
-
+![HealthAIDocs](https://github.com/evanmulcare/Projects-University/assets/107214132/f17de0de-8b80-4b46-9a01-7ab2fe046a27)
+![HealthAIDocuments](https://github.com/evanmulcare/Projects-University/assets/107214132/37d77fa7-949d-4d44-8a39-2e115d7cb6c9)
+![HealthAIProfile](https://github.com/evanmulcare/Projects-University/assets/107214132/0e54de98-f43f-48d8-91bd-e2eacb6279b1)
 
 ## Document Management
 ---
