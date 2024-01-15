@@ -46,6 +46,8 @@ Projects completed for learning in university and personal time. sorted from new
 - ![github](https://github.com/evanmulcare/RESTAPICodingChallenge)
 
 ![REST Country API Challenge](https://github.com/evanmulcare/Projects-University/assets/107214132/041a68f7-bb2f-4fee-995f-c0eac3862f99)
+![restQuiz](https://github.com/evanmulcare/Projects-University/assets/107214132/f293fb74-0368-44ab-9a53-7decff3dd2db)
+![RestCoutryView](https://github.com/evanmulcare/Projects-University/assets/107214132/a2a8257c-0518-4494-9440-ebe96e92345a)
 
 ## Appointment Booking Application Java
 ---
