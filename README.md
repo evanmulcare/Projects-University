@@ -20,18 +20,6 @@ Projects completed for learning in university and personal time. sorted from new
   
 ![HealthAI](https://github.com/evanmulcare/Projects-University/assets/107214132/4b62e6ff-487d-4383-9640-653437ecb95c)
 
-## Accommodation Management Dashboard
----
-### Overview
-### Learnings
-### Project Brief
-### Implementation 
-- ![Live Site](https://accomodationmanagement.onrender.com)
-- ![Video Demo](https://www.youtube.com/watch?v=KeWAAQGLa2k&ab_channel=evan)
-- ![github](https://github.com/evanmulcare/AccomodationManagement-Frontend)
-
-![Accomodation Management](https://github.com/evanmulcare/Projects-University/assets/107214132/e239831c-c027-46d9-9809-d79682a095f2)
-
 ## REST Country API Challenge
 ---
 ### Overview
@@ -55,6 +43,18 @@ Projects completed for learning in university and personal time. sorted from new
 <img width="347" alt="Booking1" src="https://github.com/evanmulcare/Projects-University/assets/107214132/f326298a-ba22-4d8f-a435-9d8a0bee6370">
 
 <img width="345" alt="Booking2" src="https://github.com/evanmulcare/Projects-University/assets/107214132/f414ea23-db2f-4595-b9a2-c7029b667c60">
+
+## Accommodation Management Dashboard
+---
+### Overview
+### Learnings
+### Project Brief
+### Implementation 
+- ![Live Site](https://accomodationmanagement.onrender.com)
+- ![Video Demo](https://www.youtube.com/watch?v=KeWAAQGLa2k&ab_channel=evan)
+- ![github](https://github.com/evanmulcare/AccomodationManagement-Frontend)
+
+![Accomodation Management](https://github.com/evanmulcare/Projects-University/assets/107214132/e239831c-c027-46d9-9809-d79682a095f2)
 
 ## Screen Logging Application
 ---
