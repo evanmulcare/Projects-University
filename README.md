@@ -54,7 +54,10 @@ Projects completed for learning in university and personal time. sorted from new
 - ![Live Site](https://restapicodingchallenge.onrender.com/)
 - ![github](https://github.com/evanmulcare/RESTAPICodingChallenge)
 
-![REST Country API Challenge](https://github.com/evanmulcare/Projects-University/assets/107214132/041a68f7-bb2f-4fee-995f-c0eac3862f99)
+<img width="901" alt="titlescreen" src="https://github.com/evanmulcare/Projects-University/assets/107214132/29d12f68-b429-47c3-bfed-640310a58281">
+<img width="905" alt="main" src="https://github.com/evanmulcare/Projects-University/assets/107214132/4ccd906b-27e2-486d-9716-8144567e287f">
+<img width="913" alt="board" src="https://github.com/evanmulcare/Projects-University/assets/107214132/46f675d5-5c0d-40c1-b0d3-882dfdc5ce87">
+<img width="911" alt="interrogate" src="https://github.com/evanmulcare/Projects-University/assets/107214132/3a7eab56-dc60-4dcd-9f04-ac87dbfe26ee">
 
 ## Accommodation Management Dashboard
 ---
