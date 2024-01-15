@@ -54,3 +54,15 @@ Projects completed for learning in university and personal time. sorted from new
 - -![github](https://github.com/evanmulcare/ScreenLogs)
   
 <img width="1423" alt="ScreenLog" src="https://github.com/evanmulcare/Projects-University/assets/107214132/bdfefe2a-7348-43a2-877a-238f1bfcb068">
+
+
+## Student Records JavaFX
+---
+### Overview
+### Learnings
+### Project Brief
+### Implementation 
+- ![Video Demo](https://www.youtube.com/watch?v=7UMY84BZP1o&ab_channel=evan)
+- -![github](https://github.com/evanmulcare/StudentRecords/tree/main/StudentRecords/StageThree/AssignmentTwo/src/main/java/com/mtu/studentrecords)
+  
+<img width="1440" alt="studentRecordsSc" src="https://github.com/evanmulcare/Projects-University/assets/107214132/730f486f-3500-46a1-a55a-138835b8705d">
