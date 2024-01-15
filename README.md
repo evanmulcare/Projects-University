@@ -22,4 +22,12 @@ Projects completed for learning in university and personal time. sorted from new
 ### Learnings
 ### Project Brief
 ### Implementation 
-![Accomodation AMnagement](https://github.com/evanmulcare/Projects-University/assets/107214132/e239831c-c027-46d9-9809-d79682a095f2)
+![Accomodation Management](https://github.com/evanmulcare/Projects-University/assets/107214132/e239831c-c027-46d9-9809-d79682a095f2)
+
+## REST Country API Challenge
+---
+### Overview
+### Learnings
+### Project Brief
+### Implementation
+![REST Country API Challenge](https://github.com/evanmulcare/Projects-University/assets/107214132/041a68f7-bb2f-4fee-995f-c0eac3862f99)
