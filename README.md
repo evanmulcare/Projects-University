@@ -97,9 +97,12 @@ Projects completed for learning in university and personal time. sorted from new
 - ![Live Site](https://screenlogs.onrender.com/)
 - ![Video Demo](https://www.youtube.com/watch?v=Yf636Ch-7qM&ab_channel=evan)
 - -![github](https://github.com/evanmulcare/ScreenLogs)
-  
-<img width="1423" alt="ScreenLog" src="https://github.com/evanmulcare/Projects-University/assets/107214132/bdfefe2a-7348-43a2-877a-238f1bfcb068">
 
+<img width="1440" alt="logLanding" src="https://github.com/evanmulcare/Projects-University/assets/107214132/0dee2704-32f0-4b14-be2c-c5736983aa0e">
+<img width="1423" alt="ScreenLog" src="https://github.com/evanmulcare/Projects-University/assets/107214132/bdfefe2a-7348-43a2-877a-238f1bfcb068">
+<img width="1437" alt="logAbout" src="https://github.com/evanmulcare/Projects-University/assets/107214132/52f1aea5-e0cf-403d-9b9e-840732a46a20">
+<img width="1439" alt="logChart1" src="https://github.com/evanmulcare/Projects-University/assets/107214132/504e269e-9a76-4175-8905-3403b0f24429">
+<img width="1439" alt="logChart2" src="https://github.com/evanmulcare/Projects-University/assets/107214132/f8a3c4c0-f9fc-45be-91f5-420700f80aa3">
 
 ## Student Records JavaFX
 ---
