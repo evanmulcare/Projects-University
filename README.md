@@ -28,7 +28,7 @@ Projects completed for learning in university and personal time. sorted from new
 ### Learnings
 ### Project Brief
 ### Implementation 
-- ![Video Demo](https://www.youtube.com/watch?v=PsxyyBcrmdg&ab_channel=evan)
+- ![Video Demo](https://www.youtube.com/watch?v=8LkHoDy60Z0&ab_channel=evan)
   
 <img width="1440" alt="formlanding" src="https://github.com/evanmulcare/Projects-University/assets/107214132/48592c47-d5de-4f25-806b-7b1b54551c98">
 <img width="1438" alt="formdashboard" src="https://github.com/evanmulcare/Projects-University/assets/107214132/802b7104-bafb-4539-9cf5-ebea6019f671">
@@ -64,7 +64,7 @@ Projects completed for learning in university and personal time. sorted from new
 ### Learnings
 ### Project Brief
 ### Implementation https://github.com/evanmulcare/RESTAPICodingChallenge
-- ![Demo Video]([https://restapicodingchallenge.onrender.com/](https://www.youtube.com/watch?v=1a3XvdVhsmM&ab_channel=evan))
+- ![Demo Video](https://www.youtube.com/watch?v=1a3XvdVhsmM&feature=youtu.be)
 
 <img width="901" alt="titlescreen" src="https://github.com/evanmulcare/Projects-University/assets/107214132/29d12f68-b429-47c3-bfed-640310a58281">
 <img width="905" alt="main" src="https://github.com/evanmulcare/Projects-University/assets/107214132/4ccd906b-27e2-486d-9716-8144567e287f">
