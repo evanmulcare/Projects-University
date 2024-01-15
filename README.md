@@ -43,6 +43,19 @@ Projects completed for learning in university and personal time. sorted from new
 
 ![REST Country API Challenge](https://github.com/evanmulcare/Projects-University/assets/107214132/041a68f7-bb2f-4fee-995f-c0eac3862f99)
 
+## Appointment Booking Application Java
+---
+### Overview
+### Learnings
+### Project Brief
+### Implementation 
+- ![Video Demo](https://www.youtube.com/watch?v=Yf636Ch-7qM&ab_channel=evan)
+- -![github](https://github.com/evanmulcare/Appointment-Booking-Application-Java)
+- 
+<img width="347" alt="Booking1" src="https://github.com/evanmulcare/Projects-University/assets/107214132/f326298a-ba22-4d8f-a435-9d8a0bee6370">
+
+<img width="345" alt="Booking2" src="https://github.com/evanmulcare/Projects-University/assets/107214132/f414ea23-db2f-4595-b9a2-c7029b667c60">
+
 ## Screen Logging Application
 ---
 ### Overview
