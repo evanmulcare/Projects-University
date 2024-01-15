@@ -1,5 +1,5 @@
 # Projects-University
-Projects completed for learning in university and personal time. sorted from newst to oldest.
+Projects done for learning or in university 📌. sorted from newst to oldest.
 
 ## Health AI
 ---
