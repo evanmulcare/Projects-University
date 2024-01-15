@@ -82,7 +82,7 @@ Projects completed for learning in university and personal time. sorted from new
 ### Project Brief
 ### Implementation 
 - ![Live Site](https://accomodationmanagement.onrender.com)
-- ![Video Demo](https://www.youtube.com/watch?v=KeWAAQGLa2k&ab_channel=evan)
+-  https://www.youtube.com/watch?v=KeWAAQGLa2k&ab_channel=evan
 - ![github](https://github.com/evanmulcare/AccomodationManagement-Frontend)
 
 ![Accomodation Management](https://github.com/evanmulcare/Projects-University/assets/107214132/e239831c-c027-46d9-9809-d79682a095f2)
