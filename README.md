@@ -56,6 +56,11 @@ Projects done for learning or in university 📌.
 <img width="1875" alt="BusDrivingGame1" src="https://github.com/user-attachments/assets/600560c8-74cb-4aa9-9807-6e9922a4dae9" />
 <img width="1875" alt="BusDrivingGame2" src="https://github.com/user-attachments/assets/faf45ebe-1b2d-4d4b-bdc0-977c71562663" />
 
+## LeetCode? 
+---
+- I did lots of leetCode and forgot it all.
+<img width="1157" alt="image" src="https://github.com/user-attachments/assets/72866712-81d4-4802-99fb-a58fc12f00a5" />
+
 ## REST Country API Challenge
 ---
 - A coding challenge I participated in with the goal of searching for and filtering data from the REST Countries API.
