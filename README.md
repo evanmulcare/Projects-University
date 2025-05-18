@@ -1,5 +1,18 @@
 # Projects-University
-Projects done for learning or in university 📌. sorted from newst to oldest.
+Projects done for learning or in university 📌.
+
+## Leaving Certificate Exam preparation Website
+---
+- Website For exam preparation for the elaving certificate computer science project 
+- Technologies used: Angular, Firebase, Google Cloud
+
+- Live Site - [LCCode](https://lccode.ie/)
+- Video Demo (Web) - [FYP Demo Video Evan Mulcare](https://www.youtube.com/watch?v=BYrjbC-OPcA)
+- Project Files - [Documentation](https://drive.google.com/drive/folders/1a7p-F2pPNE2XSy-4oK1twnxkbnwRvXx2)
+<img width="1905" alt="image" src="https://github.com/user-attachments/assets/e3018e6f-8959-4c0e-a4fc-91790c04844c" />
+<img width="2061" alt="image" src="https://github.com/user-attachments/assets/adb8d791-cf33-402a-9e62-20d5c39ce78b" />
+<img width="2078" alt="image" src="https://github.com/user-attachments/assets/9e7dc5e0-1fc4-439b-b60c-bd13524f785a" />
+<img width="2081" alt="image" src="https://github.com/user-attachments/assets/9f5fb651-0100-40c2-837d-29643bcc4ba7" />
 
 ## Health AI
 ---
@@ -7,7 +20,7 @@ Projects done for learning or in university 📌. sorted from newst to oldest.
 - Technologies used: javascript,Java,Python,Flask,Firebase,React,SciKitLearn,Tailwind
 
 - Live Site - https://healthai-2deb8.web.app
-- Video Demo (Web) - https://www.youtube.com/watch?v=PsxyyBcrmdg&ab_channel=evan
+- \Video Demo (Web) - https://www.youtube.com/watch?v=PsxyyBcrmdg&ab_channel=evan
 - Video Demo (Mobile) - https://www.youtube.com/watch?v=n4H5huyClts
 - Github - https://github.com/evanmulcare/HealthAI
   
@@ -26,6 +39,22 @@ Projects done for learning or in university 📌. sorted from newst to oldest.
 <img width="1440" alt="formlanding" src="https://github.com/evanmulcare/Projects-University/assets/107214132/48592c47-d5de-4f25-806b-7b1b54551c98">
 <img width="1438" alt="formdashboard" src="https://github.com/evanmulcare/Projects-University/assets/107214132/802b7104-bafb-4539-9cf5-ebea6019f671">
 <img width="1438" alt="approval" src="https://github.com/evanmulcare/Projects-University/assets/107214132/d7120457-fd36-4f03-9ab8-749e63920612">
+
+## Game development Projects
+---
+- Game Development Project Completed in unreal Engine
+
+- Demo Video 1 - [Bus Driving Game](https://www.youtube.com/watch?v=qISEeak30D8)
+- Demo Video 2 - [Side Scroller Game](https://www.youtube.com/watch?v=mxr357uOOUw)
+- Github - [https://github.com/evanmulcare/HealthAI](https://github.com/evanmulcare/Game_Dev_assignment_one)
+
+
+<img width="1584" alt="ScrollerGame1" src="https://github.com/user-attachments/assets/faa8eb62-57da-493c-bb62-00d3852fa1d1" />
+<img width="1584" alt="ScrollerGame2" src="https://github.com/user-attachments/assets/9833a553-afb7-47a2-876f-2541fd9a8436" />
+<img width="1576" alt="ScrollerGame3" src="https://github.com/user-attachments/assets/e75885e9-48a6-47a5-a478-f824d28ec235" />
+
+<img width="1875" alt="BusDrivingGame1" src="https://github.com/user-attachments/assets/600560c8-74cb-4aa9-9807-6e9922a4dae9" />
+<img width="1875" alt="BusDrivingGame2" src="https://github.com/user-attachments/assets/faf45ebe-1b2d-4d4b-bdc0-977c71562663" />
 
 ## REST Country API Challenge
 ---
