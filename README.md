@@ -3,7 +3,7 @@ Projects done for learning or in university 📌.
 
 ## Leaving Certificate Exam preparation Website
 ---
-- Website For exam preparation for the elaving certificate computer science project 
+- A website for Leaving Certificate Computer Science exam preparation 
 - Technologies used: Angular, Firebase, Google Cloud
 
 - Live Site - [LCCode](https://lccode.ie/)
@@ -42,7 +42,7 @@ Projects done for learning or in university 📌.
 
 ## Game development Projects
 ---
-- Game Development Project Completed in unreal Engine
+- Game Development Projects Completed in unreal Engine
 
 - Demo Video 1 - [Bus Driving Game](https://www.youtube.com/watch?v=qISEeak30D8)
 - Demo Video 2 - [Side Scroller Game](https://www.youtube.com/watch?v=mxr357uOOUw)
