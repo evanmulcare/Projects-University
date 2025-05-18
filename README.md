@@ -20,7 +20,7 @@ Projects done for learning or in university 📌.
 - Technologies used: javascript,Java,Python,Flask,Firebase,React,SciKitLearn,Tailwind
 
 - Live Site - https://healthai-2deb8.web.app
-- \Video Demo (Web) - https://www.youtube.com/watch?v=PsxyyBcrmdg&ab_channel=evan
+- Video Demo (Web) - https://www.youtube.com/watch?v=PsxyyBcrmdg&ab_channel=evan
 - Video Demo (Mobile) - https://www.youtube.com/watch?v=n4H5huyClts
 - Github - https://github.com/evanmulcare/HealthAI
   
